@@ -1,0 +1,1 @@
+This is the report oulining the research, model designs and the eventual outputs for the Accident Detection System designed as a part of my Final Year project towards BE in Electronics nad Telecommunications from University of Mumbai.
